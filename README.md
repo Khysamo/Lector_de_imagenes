@@ -1,1 +1,1 @@
-# Lector_de_imagenes
+# vision_app
